@@ -316,5 +316,6 @@ int16_t GfxSSIDListBox::update(String ssid, int8_t channel, uint8_t signal)
         }
         return idx;
     }
+
 }
 
