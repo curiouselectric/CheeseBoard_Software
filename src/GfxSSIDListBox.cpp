@@ -294,6 +294,7 @@ bool GfxSSIDListBox::scrollTo(uint8_t idx)
             scrollDown(1);
         }
     }
+    return true;
 }
 
 int16_t GfxSSIDListBox::update(String ssid, int8_t channel, uint8_t signal)
