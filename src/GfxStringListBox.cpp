@@ -259,6 +259,7 @@ bool GfxStringListBox::scrollTo(uint8_t idx)
             scrollDown(1);
         }
     }
+    return true;
 }
 
 
