@@ -32,7 +32,7 @@ This library contains components for use with the *CheeseBoard: Cheddar* and var
 * Visit https://github.com/matthewg42/EspApConfigurator click "Clone or download" and choose "Download ZIP"
     * Sketch [menu] -> Include Library [menu item] -> Add .ZIP library... [menu item]
     * Find the .ZIP file you downloaded and select it, click OK
-* Visit https://github.com/matthewg42/CheeseBoard click "Clone or download" and choose "Download ZIP"
+* Visit https://github.com/curiouselectric/CheeseBoard_Software (this repository) click "Clone or download" and choose "Download ZIP"
     * Sketch [menu] -> Include Library [menu item] -> Add .ZIP library... [menu item]
     * Find the .ZIP file you downloaded and select it, click OK
 
