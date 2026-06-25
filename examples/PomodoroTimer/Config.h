@@ -6,4 +6,4 @@
 
 #define LED_UPDATE      10    // Time in mS between updating the LEDs when running
 
-//#define TESTING         false       // Used for fast timers - not for real device
+//#define TESTING        // Used for fast timers - not for real device

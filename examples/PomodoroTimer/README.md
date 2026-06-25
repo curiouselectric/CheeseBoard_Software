@@ -27,5 +27,8 @@ The rotary encoder chooses which type of timer is implemented
 4. Connect the CheeseBoard with the connector on the NodeMCU
 5. Upload
 
+## Done
+
+Done 22/6/2026: Remove blue LED from NodeMCU - it flashes every time OLED is updated!
+
 ## To Do:
-Remove blue LED from NodeMCU - it flashes every time OLED is updated!
